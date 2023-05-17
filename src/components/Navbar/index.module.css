@@ -1,0 +1,19 @@
+.ul li{
+    list-style: none;
+}
+
+@media only screen and (max-width: 567px) {
+    .text{
+        display: none;
+    }
+  }
+
+.ul1{
+    list-style: none;
+    background-color: white;
+    line-height: 120px;
+}
+
+.list{
+    background-color: rgb(255, 255, 255);
+}
